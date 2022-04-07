@@ -1,0 +1,5 @@
+1;Mate;Matei;4
+2;Matei;Nao;2
+3;Cordis;Dani;3
+4;Razvan;N;1
+5;Rat;F;2

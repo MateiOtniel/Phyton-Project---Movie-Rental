@@ -1,0 +1,6 @@
+1;Ave;fa;comedie;2/1;M;M;2/0
+1;Ave;fa;comedie;2/2;M;N;1/1
+2;Ava;da;actiune;1/1;M;M;2/2
+5;BASD;asd;comedie;1/1;Mate;Matei;3/3
+4;ADSA;da;comedie;2/1;Mate;Matei;4/4
+4;ADSA;da;comedie;2/2;Matei;Nao;2/5
